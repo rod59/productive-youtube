@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/productive-youtube/static/css/main.86971cc4.chunk.css",
+    "main.js": "/productive-youtube/static/js/main.8625e7fd.chunk.js",
+    "main.js.map": "/productive-youtube/static/js/main.8625e7fd.chunk.js.map",
+    "runtime-main.js": "/productive-youtube/static/js/runtime-main.0cf8c697.js",
+    "runtime-main.js.map": "/productive-youtube/static/js/runtime-main.0cf8c697.js.map",
+    "static/css/2.89f067aa.chunk.css": "/productive-youtube/static/css/2.89f067aa.chunk.css",
+    "static/js/2.f2e40d7b.chunk.js": "/productive-youtube/static/js/2.f2e40d7b.chunk.js",
+    "static/js/2.f2e40d7b.chunk.js.map": "/productive-youtube/static/js/2.f2e40d7b.chunk.js.map",
+    "index.html": "/productive-youtube/index.html",
+    "precache-manifest.3515ec1a058281f7c3dd4abd639c0e4c.js": "/productive-youtube/precache-manifest.3515ec1a058281f7c3dd4abd639c0e4c.js",
+    "service-worker.js": "/productive-youtube/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/productive-youtube/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.86971cc4.chunk.css.map": "/productive-youtube/static/css/main.86971cc4.chunk.css.map",
+    "static/js/2.f2e40d7b.chunk.js.LICENSE.txt": "/productive-youtube/static/js/2.f2e40d7b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cf8c697.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.f2e40d7b.chunk.js",
+    "static/css/main.86971cc4.chunk.css",
+    "static/js/main.8625e7fd.chunk.js"
+  ]
+}
