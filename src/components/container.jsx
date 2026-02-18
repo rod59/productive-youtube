@@ -104,7 +104,9 @@ class Container extends Component {
       this.updateNowPlaying(this.state.videoId);
     }
   }
-  hideVideo() {}
+  hideVideo() {
+    //TODO
+    }
   //youtube vids have wierd string of chars to represent "&" quotes etc.
   //this function fixes that
   videoTitleFix(video) {

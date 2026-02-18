@@ -19,7 +19,11 @@ class Search extends Component {
   }
 
   search() {
-    const apiKey = "AIzaSyA4yxU7ZfYFMuTlJ4Wgl97LeO3Z6wthZLg";
+    //to completely hide this key, it would require a backend
+    //backends are not currently supported on GitHub Pages :(
+    const apiKey = "AIzaSyDj2-eU5zGvwRZgpLBstEjuD5_mOqSM0fQ";
+    //if you decide to make changes to this code yourself
+    //make sure all publicly-viewable API keys are properly restricted!
     const apiCall = `https://www.googleapis.com/youtube/v3/search?part=snippet&type=video&maxResults=9&q=${this.state.searchIn}&key=${apiKey}`;
     fetch(apiCall)
       .then(result => result.json())
